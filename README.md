@@ -12,11 +12,11 @@ This homework has been deployed to GitHub Pages. Follow the link to jump on the 
 
  ## Homework at a Glance
 
- ![Demo from Homework ticket](/assets/demopic.jpg)
+ ![Demo from Homework ticket](demopic.jpg)
 
- ![Criteria](/assets/criteria.jpg)
+ ![Criteria](criteria.jpg)
 
- ![Generated Pasword](/assets/generatedPassword.jpg)
+ ![Generated Pasword](generatedPassword.jpg)
 
 ## Homework Requirements
 
